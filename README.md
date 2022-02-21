@@ -24,3 +24,5 @@ The app demonstrates the use of Intents in two ways:
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+<img src="Screen Shot 2022-02-21 at 16.01.48.png" /> <img src ="Screen Shot 2022-02-21 at 16.01.00.png" /> <img src="Screen Shot 2022-02-21 at 16.01.45.png" />
